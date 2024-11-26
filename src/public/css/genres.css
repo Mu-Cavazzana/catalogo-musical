@@ -181,7 +181,7 @@ body {
 }
 
 .navbar-title h1 {
-    color: #63b3ed;;
+    color: #63b3ed;
     font-size: 1.5rem;
     margin: 0;
 }
@@ -204,7 +204,7 @@ body {
 
 .nav-links li a:hover,
 .nav-links li a.active {
-    ccolor: #63b3ed;;
+    color: #63b3ed;
 }
 
 .main-content {
@@ -215,7 +215,7 @@ body {
 
 .page-title {
     font-size: 2rem;
-    color: #63b3ed;;
+    color: #63b3ed;
     margin-bottom: 20px;
 }
 
